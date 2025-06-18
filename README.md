@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Astha
-- 👀 I’m interested in learning Python
+- 👀 I’m interested in learning Java
 - 🌱 I’m currently learning DSA
   
 - 📫 Reach me at 
